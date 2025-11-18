@@ -6,7 +6,7 @@
 // 创建日期: 2025-11-19
 // 最后修改: 2025-11-19
 // 　　描述: 这个脚本用于演示NodeJS脚本实现CGI的过程及原理
-// 使用方式: 文件重命名，从node_demo1.js改成index.cgi,放置应用包/ui路径下，记得 chmod +x index.cgi 赋权
+// 使用方式: 文件重命名，从node_cgi_demo.js改成index.cgi,放置应用包/ui路径下，记得 chmod +x index.cgi 赋权
 // 环境依赖: NodeJS脚本语言实现CGI程序时，应用包目录中manifest文件中必须声明依赖（install_dep_apps属性）缺少NodeJS环境脚本将无法正常解析
 // 　　　　  依赖声明详见：https://developer.fnnas.com/docs/core-concepts/manifest#%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86
 // 　许可证: MIT

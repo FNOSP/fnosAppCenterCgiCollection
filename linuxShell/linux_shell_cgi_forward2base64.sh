@@ -5,7 +5,7 @@
 # 创建日期: 2025-11-18
 # 最后修改: 2025-11-19
 # 　　描述: 这个脚本用于演示Shell脚本的各种注释方式
-# 使用方式: 文件重命名，从linux_shell_forward2base64.sh改成index.cgi,放置应用包/ui路径下，记得 chmod +x index.cgi 赋权
+# 使用方式: 文件重命名，从linux_shell_cgi_forward2base64.sh改成index.cgi,放置应用包/ui路径下，记得 chmod +x index.cgi 赋权
 # 　许可证: MIT
 
 # --- 安全配置 ---
