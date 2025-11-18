@@ -1,8 +1,9 @@
 #!/bin/bash
 # 脚本名称: index.cgi
 # 　　版本: 1.0.0
-# 　　作者: FNOPS/xieguanru
-# 创建日期: 2025-11-19
+# 　　作者: FNOSP/xieguanru
+# 　协作者: FNOSP/MR_XIAOBO
+# 创建日期: 2025-11-18
 # 最后修改: 2025-11-19
 # 　　描述: 这个脚本用于演示Shell脚本的各种注释方式
 # 使用方式: 文件重命名，从linux_shell_index.sh改成index.cgi,放置应用包/ui路径下
