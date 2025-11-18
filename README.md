@@ -1,0 +1,2 @@
+# fnosAppCenterCgiCollection
+应用中心通用网关接口集合
